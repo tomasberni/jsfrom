@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#contenedorDeForm {
+  padding-top: 20vh;
+}
+
+#alertMessage {
+  height: 60px;
+  display: none;
+}
+
+.center-me {
+  display: flex;
+  align-items: center;
+}
+
+.altura-select {
+  height: 40px;
+  width: 250px;
+}
